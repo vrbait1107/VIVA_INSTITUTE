@@ -8,15 +8,15 @@
 
     <!-- Include Header Scripts -->
      <?php include_once "includes/headerScripts.php";?>
+      <!-- Google Recaptcha -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 </head>
 
 <body>
 
  <!-- Include Navbar -->
     <?php include_once "includes/navbar.php";?>
-
-
-
 
  <main class="mb-5 container">
 
@@ -34,6 +34,9 @@
             <section class="col-md-7 mt-3">
 
                 <form id="contactForm" action="" method="POST">
+
+                    <!-- Response Message -->
+                    <div id="responseMessage"></div>
 
                     <div class="form-group">
                         <label for="name">Your Name</label>
@@ -55,6 +58,10 @@
                         <textarea type="text" id="message" name="message" rows="3" class="form-control md-textarea"></textarea required>
                     </div>
 
+                    <div class="text-center my-4">
+                        <div class="g-recaptcha text-center" data-sitekey="Enter Data Site Key">
+                        </div>
+                    </div>
 
                     <div class="text-center text-md-left">
                         <input class="btn btn-primary rounded-pill px-5" type="submit" id="submit" name="submit" value="Send">
@@ -77,7 +84,7 @@
                     </li>
 
                     <li><i class="fa fa-envelope mb-2 fa-3x"></i>
-                        <h5 class="text-success">git-india.edu.gmail.com</h5>
+                        <h5 class="text-success">vihm-india.edu.gmail.com</h5>
                     </li>
                 </ul>
             </section>
