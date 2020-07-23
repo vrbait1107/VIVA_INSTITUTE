@@ -15,8 +15,8 @@ if (isset($_POST['submit'])) {
 
         if ($response->success) {
 
-           /* Please Read official documentation on GitHUb Account 
-           -->> https: //github.com/PHPMailer/ */
+            /* Please Read official documentation on GitHUb Account
+            -->> https: //github.com/PHPMailer/ */
 
             date_default_timezone_set('Etc/UTC');
             require '../PHPMailer/PHPMailerAutoload.php';
@@ -30,9 +30,9 @@ if (isset($_POST['submit'])) {
             $mail->SMTPSecure = 'tls';
             $mail->SMTPAuth = true;
             // Enter Your Email Username
-            $mail->Username = "Enter Username";
+            $mail->Username = "";
             //Enter Your Email Password
-            $mail->Password = "Enter Password";
+            $mail->Password = "";
             $mail->setFrom($email, $name);
             $mail->addReplyTo('non-reply@gmail.com', 'Viva Institute of Hotel Management');
             $mail->addAddress("Enter College Email Address", "Viva Institute of Hotel Management");
