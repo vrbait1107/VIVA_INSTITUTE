@@ -38,7 +38,7 @@
 
             <div class="col-md-3 mb-3 text-center">
                 <div class="card shadow py-5 alert alert-info" style="height: 120px;">
-                    <h5 class="font-time">Experinced Faculty</h5>
+                    <h5 class="font-time">Experienced Faculty</h5>
                 </div>
             </div>
 
