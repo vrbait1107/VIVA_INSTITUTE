@@ -12,7 +12,7 @@
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon text-white"></span>
+    <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -24,15 +24,8 @@
       </li>
 
       <!-- About Us -->
-      <li class="nav-item dropdown">
-        <a class="nav-link text-white font-weight-bold  mx-2 dropdown-toggle" href="#" id="navbarDropdown" role="button"
-          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          ABOUT US
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="vision-mission.php">Vision & Missions</a>
-          <a class="dropdown-item" href="#">About Institute</a>
-        </div>
+      <li class="nav-item">
+        <a class="nav-link text-white font-weight-bold  mx-2" href="aboutUs.php">ABOUT US</a>
       </li>
 
       <!-- Academics -->
@@ -61,16 +54,9 @@
         </div>
       </li>
 
-      <!-- Gallery Details -->
-      <li class="nav-item dropdown">
-        <a class="nav-link text-white font-weight-bold  mx-2 dropdown-toggle" href="#" id="navbarDropdown" role="button"
-          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          GALLERY
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="programs.php">Photo Gallery</a>
-          <a class="dropdown-item" href="#">Video Gallery</a>
-        </div>
+      <!-- Gallery -->
+      <li class="nav-item">
+        <a class="nav-link text-white font-weight-bold  mx-2" href="gallery.php">Gallery</a>
       </li>
 
       <!-- Placement Details -->

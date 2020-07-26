@@ -17,16 +17,52 @@
 
 
     <main class="container">
-        <div class="row mb-5">
-            <section class="col-md-12 text-center pt-5">
-                <img src="images/Image1.jpeg" class="img-fluid" alt="">
+
+        <div class="row my-5">
+
+            <section class="col-md-12">
+
+                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner text-center">
+                        <div class="carousel-item active">
+                            <img src="images/Slide1.jpeg" class="mx-auto img-fluid" style="max-height: 600px;"
+                                alt="Slide1">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/Slide2.jpeg" class="mx-auto img-fluid" style="max-height: 600px;"
+                                alt="Slide2">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/Slide3.jpeg" class="mx-auto img-fluid" style="max-height: 600px;"
+                                alt="Slide3">
+                        </div>
+                    </div>
+
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+
+                </div>
+
             </section>
         </div>
 
-         <h3 class="font-time text-uppercase mb-3 text-dark text-center">
+
+        <h3 class="font-time text-uppercase mb-3 text-dark text-center">
             Academic Features</h3>
 
-            <hr>
+        <hr>
 
         <div class="row mb-5">
 

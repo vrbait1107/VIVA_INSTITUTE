@@ -20,7 +20,7 @@
 
  <main class="mb-5 container">
 
-        <h3 class="font-weight-bold text-center my-4 text-uppercase text-dark alert alert-primary">
+        <h3 class="font-weight-bold text-center my-5 text-uppercase text-dark alert alert-primary">
             Contact us</h3>
 
         <h5 class="text-center w-responsive mx-auto mb-3">Do you have any questions? Please do not
