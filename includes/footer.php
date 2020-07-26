@@ -6,7 +6,25 @@
                 <h5 class="mb-3 text-uppercase">Pages</h5>
                 <ul class="footerList">
                     <li><a class="text-white" href="index.php">Home</a></li>
-                    <li><a class="text-white" href="#">Events</a></li>
+
+                    <li class="dropdown">
+
+                        <a class="text-white dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Academics
+                        </a>
+
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="programs.php">Programs Offered</a>
+                            <a class="dropdown-item" href="#">Faculty</a>
+                            <a class="dropdown-item" href="#">Academic Calender</a>
+                            <a class="dropdown-item" href="#">Syllabus</a>
+                        </div>
+                    </li>
+
+                    <li><a class="text-white" href="gallery.php">Gallery</a></li>
+                    <li><a class="text-white" href="facility.php">Facility</a></li>
+                    <li><a class="text-white" href="placement.php">Placement</a></li>
                 </ul>
             </div>
 
@@ -54,6 +72,6 @@
         </div>
     </div>
     <div class="text-center">
-     <p class="py-4"> &copy; 2020 Viva Institute of Hotel Management All Rights Reserved.</p>
+        <p class="py-4"> &copy; 2020 Viva Institute of Hotel Management All Rights Reserved.</p>
     </div>
 </footer>

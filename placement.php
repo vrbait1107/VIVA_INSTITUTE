@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Institute</title>
+    <title>Placement</title>
     <!-- Include headerScript -->
     <?php include_once "./includes/headerScripts.php";?>
 </head>
@@ -19,7 +19,7 @@
         <div class="row mb-5">
 
 
-            <div class="col-md-3 font-time text-dark" style="font-size: 20px;">
+            <div class="col-md-3 font-sans text-dark" style="font-size: 20px;">
                 <ol>
                     <p>Citizen hotel</p>
                     <p>Vits hotel</p>
@@ -34,7 +34,7 @@
                 </ol>
             </div>
 
-            <div class="col-md-3 font-time text-dark" style="font-size: 20px;">
+            <div class="col-md-3 font-sans text-dark" style="font-size: 20px;">
                 <p>Radison blue hotel</p>
                 <p>Jadhav gad hotel</p>
                 <p>Leaman tree hotel</p>
@@ -49,7 +49,7 @@
             </div>
 
 
-            <div class="col-md-3 font-time text-dark" style="font-size: 20px;">
+            <div class="col-md-3 font-sans text-dark" style="font-size: 20px;">
 
                 <p>C princess hotel</p>
                 <p>Visava hotel</p>
@@ -65,7 +65,7 @@
             </div>
 
 
-            <div class="col-md-3 font-time text-dark" style="font-size: 20px;">
+            <div class="col-md-3 font-sans text-dark" style="font-size: 20px;">
                 <p>Blue diamond hotel</p>
                 <p>Picaddle resort</p>
                 <p>Bharat hotel</p>

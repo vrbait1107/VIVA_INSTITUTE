@@ -36,22 +36,15 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="programs.php">Programs Offered</a>
-          <a class="dropdown-item" href="#">Faculty</a>
+          <a class="dropdown-item" href="faculty.php">Faculty</a>
           <a class="dropdown-item" href="#">Academic Calender</a>
           <a class="dropdown-item" href="#">Syllabus</a>
         </div>
       </li>
 
       <!-- Facilities -->
-      <li class="nav-item dropdown">
-        <a class="nav-link text-white font-weight-bold  mx-2 dropdown-toggle" href="#" id="navbarDropdown" role="button"
-          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Facilities
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Hostel</a>
-          <a class="dropdown-item" href="#">Library</a>
-        </div>
+      <li class="nav-item">
+        <a class="nav-link text-white font-weight-bold  mx-2" href="facility.php">Facility</a>
       </li>
 
       <!-- Gallery -->

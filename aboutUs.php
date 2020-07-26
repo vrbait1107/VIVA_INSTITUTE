@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Institute</title>
+    <title>About Us</title>
     <!-- Include headerScript -->
     <?php include_once "./includes/headerScripts.php";?>
 </head>
