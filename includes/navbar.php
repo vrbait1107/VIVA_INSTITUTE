@@ -61,7 +61,7 @@
 
       <!-- Placement Details -->
       <li class="nav-item">
-        <a class="nav-link text-white font-weight-bold  mx-2" href="#">PLACEMENT</a>
+        <a class="nav-link text-white font-weight-bold  mx-2" href="placement.php">PLACEMENT</a>
       </li>
 
       <!-- Contact Us -->
