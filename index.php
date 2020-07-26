@@ -60,37 +60,53 @@
 
 
         <h3 class="font-time text-uppercase mb-3 text-dark text-center">
-            Academic Features</h3>
+            Our Benefits</h3>
 
         <hr>
 
+
         <div class="row mb-5">
-
-            <div class="col-md-3 mb-3 text-center">
-                <div class="card shadow py-5 alert alert-info" style="height: 120px;">
-                    <h5 class="font-time">Advanced Digital Classroom</h5>
-                </div>
+            <div class="col-md-4 mb-3 text-center">
+                <img src="images/faculty.jpg" style="max-height: 200px;" class="img-fluid w-100" alt="">
+                <h5 class="font-time alert alert-warning text-dark">Experienced Faculty</h5>
             </div>
 
-            <div class="col-md-3 mb-3 text-center">
-                <div class="card shadow py-5 alert alert-info" style="height: 120px;">
-                    <h5 class="font-time">Experienced Faculty</h5>
-                </div>
+            <div class="col-md-4 mb-3 text-center">
+                <img src="images/job.jpg" style="max-height: 200px;" class="w-100 img-fluid" alt="">
+                <h5 class="font-time alert alert-warning text-dark">100% Job Placement Guarantee</h5>
             </div>
 
-            <div class="col-md-3 mb-3 text-center">
-                <div class="card shadow py-5 alert alert-info" style="height: 120px;">
-                    <h5 class="font-time">Hotel Management Certificate</h5>
-                </div>
-            </div>
-
-
-            <div class="col-md-3 mb-3 text-center">
-                <div class="card shadow py-5 alert alert-info" style="height: 120px;">
-                    <h5 class="font-time">100% Job Placement Guarantee</h5>
-                </div>
+            <div class="col-md-4 mb-3 text-center">
+                <img src="images/Digital Classroom.jpg" style="max-height: 200px;" class="img-fluid" alt="">
+                <h5 class="font-time alert alert-warning text-dark">Advanced Digital Classroom</h5>
             </div>
         </div>
+
+
+        <div class="row mb-5">
+            <div class="col-md-4 mb-3 text-center">
+                <img src="images/online courses.jpg" class="img-fluid w-100" style="max-height: 200px;" alt="">
+                <h5 class="font-time alert alert-warning text-dark">Online Courses on Youtube</h5>
+            </div>
+
+            <div class="col-md-4 mb-3 text-center">
+                <img src="images/hostel.jpg" class="img-fluid w-100" style="max-height: 200px;" alt="">
+                <h5 class="font-time alert alert-warning text-dark">Free Accomodation</h5>
+            </div>
+
+            <div class="col-md-4 mb-3 text-center">
+                <img src="images/job trainer.jpg" class="img-fluid w-100" style="max-height: 200px;" alt="">
+                <h5 class="font-time alert alert-warning text-dark">Placement trainer for jobs</h5>
+            </div>
+        </div>
+
+        <div class="row mb-5">
+            <div class="col-md-4 mb-3 text-center">
+                <img src="images/business trainer.jpg" class="img-fluid w-100" style="max-height: 200px;" alt="">
+                <h5 class="font-time alert alert-warning text-dark">Business trainer for business</h5>
+            </div>
+        </div>
+
     </main>
 
 
