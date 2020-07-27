@@ -36,8 +36,6 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="programs.php">Programs Offered</a>
           <a class="dropdown-item" href="faculty.php">Faculty</a>
-          <a class="dropdown-item" href="#">Academic Calender</a>
-          <a class="dropdown-item" href="#">Syllabus</a>
         </div>
       </li>
 

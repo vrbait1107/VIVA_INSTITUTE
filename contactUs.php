@@ -84,7 +84,7 @@
                     </li>
 
                     <li><i class="fa fa-envelope mb-2 fa-3x"></i>
-                        <h5 class="text-success">vihm-india.edu.gmail.com</h5>
+                        <h5 class="text-success">vivekdhepe3@gmail.com</h5>
                     </li>
                 </ul>
             </section>

@@ -29,6 +29,16 @@
         <div class="row mx-auto images">
 
             <section class="col-md-3 mb-5 text-center">
+                <img src="images/vivek.jpg" class="img-fluid shadow" alt="images" data-aos="flip-right"
+                    style="max-height: 230px;" data-aos-duration="1500">
+                <div class="alert alert-info">
+                    <h5 class="font-time">Vivek Dhepe</h5>
+                    <h6 class="font-weight-bold font-sans">BSc Hotel & Tourism Management</h6>
+                    <p class="font-weight-bold font-sans">Principal</p>
+                </div>
+            </section>
+
+            <section class="col-md-3 mb-5 text-center">
                 <img src="images/vinaya.jpg" class="img-fluid shadow" alt="images" data-aos="flip-right"
                     style="max-height: 230px;" data-aos-duration="1500">
                 <div class="alert alert-info">
@@ -50,15 +60,6 @@
                 </div>
             </section>
 
-            <section class="col-md-3 mb-5 text-center">
-                <img src="images/vivek.jpg" class="img-fluid shadow" alt="images" data-aos="flip-right"
-                    style="max-height: 230px;" data-aos-duration="1500">
-                <div class="alert alert-info">
-                    <h5 class="font-time">Vivek Dhepe</h5>
-                    <h6 class="font-weight-bold font-sans">BSc Hotel & Tourism Management</h6>
-                    <p class="font-weight-bold font-sans">Lecturer</p>
-                </div>
-            </section>
 
             <section class="col-md-3 mb-5 text-center">
                 <img src="images/mitesh.jpg" class="img-fluid shadow" alt="images" data-aos="flip-right"
