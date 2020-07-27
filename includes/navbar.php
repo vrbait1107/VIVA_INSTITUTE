@@ -2,8 +2,7 @@
 <div class="container my-5">
   <div class="row">
     <div class="col-md-10 offset-md-1 col-xs-12">
-      <h3 class="font-time text-center text-uppercase">Professional Education Society's</h3>
-      <h4 class="font-time text-center text-uppercase">VIVA INSTITUTE OF HOTEL MANAGEMENT, Mangaon-Raigad</h4>
+      <h4 class="font-time text-center text-uppercase">VIVA INSTITUTE OF HOTEL MANAGEMENT <br/> Mangaon-Raigad</h4>
     </div>
   </div>
 </div>

@@ -67,17 +67,20 @@
 
         <div class="row mb-5">
             <div class="col-md-4 mb-3 text-center">
-                <img src="images/faculty.jpg" style="max-height: 200px;" class="img-fluid w-100" alt="">
+                <img src="images/faculty.jpg" style="max-height: 200px;" class="img-fluid w-100" alt="faculty"
+                    data-aos="fade-in">
                 <h5 class="font-time alert alert-warning text-dark">Experienced Faculty</h5>
             </div>
 
             <div class="col-md-4 mb-3 text-center">
-                <img src="images/job.jpg" style="max-height: 200px;" class="w-100 img-fluid" alt="">
+                <img src="images/job.jpg" style="max-height: 200px;" class="w-100 img-fluid" alt="job"
+                    data-aos="fade-in">
                 <h5 class="font-time alert alert-warning text-dark">100% Job Placement Guarantee</h5>
             </div>
 
             <div class="col-md-4 mb-3 text-center">
-                <img src="images/Digital Classroom.jpg" style="max-height: 200px;" class="img-fluid" alt="">
+                <img src="images/Digital Classroom.jpg" style="max-height: 200px;" class="img-fluid w-100"
+                    data-aos="fade-in" alt="Digital Classroom">
                 <h5 class="font-time alert alert-warning text-dark">Advanced Digital Classroom</h5>
             </div>
         </div>
@@ -85,24 +88,28 @@
 
         <div class="row mb-5">
             <div class="col-md-4 mb-3 text-center">
-                <img src="images/online courses.jpg" class="img-fluid w-100" style="max-height: 200px;" alt="">
+                <img src="images/online courses.jpg" class="img-fluid w-100" style="max-height: 200px;"
+                    data-aos="fade-in" alt="Online Course">
                 <h5 class="font-time alert alert-warning text-dark">Online Courses on Youtube</h5>
             </div>
 
             <div class="col-md-4 mb-3 text-center">
-                <img src="images/hostel.jpg" class="img-fluid w-100" style="max-height: 200px;" alt="">
+                <img src="images/hostel.jpg" class="img-fluid w-100" style="max-height: 200px;" data-aos="fade-in"
+                    alt="Free Accomadation">
                 <h5 class="font-time alert alert-warning text-dark">Free Accomodation</h5>
             </div>
 
             <div class="col-md-4 mb-3 text-center">
-                <img src="images/job trainer.jpg" class="img-fluid w-100" style="max-height: 200px;" alt="">
+                <img src="images/job trainer.jpg" class="img-fluid w-100" style="max-height: 200px;" data-aos="fade-in"
+                    alt="Placement Trainer">
                 <h5 class="font-time alert alert-warning text-dark">Placement trainer for jobs</h5>
             </div>
         </div>
 
         <div class="row mb-5">
             <div class="col-md-4 mb-3 text-center">
-                <img src="images/business trainer.jpg" class="img-fluid w-100" style="max-height: 200px;" alt="">
+                <img src="images/business trainer.jpg" class="img-fluid w-100" style="max-height: 200px;"
+                    data-aos="fade-in" alt="Business Trainer">
                 <h5 class="font-time alert alert-warning text-dark">Business trainer for business</h5>
             </div>
         </div>

@@ -29,7 +29,8 @@
         <div class="row mx-auto images">
 
             <section class="col-md-3 mb-5 text-center">
-                <img src="images/vinaya.jpg" class="img-fluid shadow" alt="images" style="max-height: 230px;">
+                <img src="images/vinaya.jpg" class="img-fluid shadow" alt="images" data-aos="flip-right"
+                    style="max-height: 230px;" data-aos-duration="1500">
                 <div class="alert alert-info">
                     <h5 class="font-time">Vinaya Dhepe</h5>
                     <h6 class="font-weight-bold font-sans">Bachelor of Arts</h6>
@@ -40,18 +41,8 @@
 
 
             <section class="col-md-3 mb-5 text-center">
-                <img src="images/shubham.jpg" class="img-fluid shadow" alt="images" style="max-height: 230px;">
-                <div class="alert alert-info">
-                    <h5 class="font-time">Shubham Divekar</h5>
-                    <h6 class="font-weight-bold font-sans">BSc Hospitality Studies</h6>
-                    <p class="font-weight-bold font-sans">Lecturer</p>
-                </div>
-
-
-            </section>
-
-            <section class="col-md-3 mb-5 text-center">
-                <img src="images/vivek.jpg" class="img-fluid shadow" alt="images" style="max-height: 230px;">
+                <img src="images/shubham.jpg" class="img-fluid shadow" alt="images" data-aos="flip-right"
+                    style="max-height: 230px;" data-aos-duration="1500">
                 <div class="alert alert-info">
                     <h5 class="font-time">Shubham Divekar</h5>
                     <h6 class="font-weight-bold font-sans">BSc Hospitality Studies</h6>
@@ -60,7 +51,18 @@
             </section>
 
             <section class="col-md-3 mb-5 text-center">
-                <img src="images/mitesh.jpg" class="img-fluid shadow" alt="images" style="max-height: 230px;">
+                <img src="images/vivek.jpg" class="img-fluid shadow" alt="images" data-aos="flip-right"
+                    style="max-height: 230px;" data-aos-duration="1500">
+                <div class="alert alert-info">
+                    <h5 class="font-time">Vivek Dhepe</h5>
+                    <h6 class="font-weight-bold font-sans">BSc Hotel & Tourism Management</h6>
+                    <p class="font-weight-bold font-sans">Lecturer</p>
+                </div>
+            </section>
+
+            <section class="col-md-3 mb-5 text-center">
+                <img src="images/mitesh.jpg" class="img-fluid shadow" alt="images" data-aos="flip-right"
+                    data-aos-duration="1500" style="max-height: 230px;">
                 <div class="alert alert-info">
                     <h5 class="font-time">Mitesh Jadhav</h5>
                     <h6 class="font-weight-bold font-sans">Diploma Hotel Management</h6>

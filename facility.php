@@ -19,7 +19,7 @@
         <div class="row mb-5">
 
         <div class="col-md-4">
-            <img src="images/hostel.jpg" class="img-fluid" alt="Hostel">
+            <img src="images/hostel.jpg" data-aos="fade-right" data-aos-duration="1500" class="img-fluid mb-3" alt="Hostel">
         </div>
 
           <div class="col-md-8 text-center">
