@@ -19,22 +19,22 @@
         <div class="row mb-5">
 
 
-            <div class="col-md-3 font-sans text-dark" style="font-size: 20px;">
-                <ol>
-                    <p>Citizen hotel</p>
-                    <p>Vits hotel</p>
-                    <p>Supreme hotel</p>
-                    <p>Vihangs in hotel</p>
-                    <p>Prakruti Resort</p>
-                    <p>Ravine hotel</p>
-                    <p>Fortune hotel</p>
-                    <p>Center point hotel</p>
-                    <p>The park hotel</p>
-                    <p>Novotel hotel</p>
-                </ol>
+            <div class="col-md-3 font-sans text-dark placement-list" style="font-size: 20px;">
+
+                <p>Citizen hotel</p>
+                <p>Vits hotel</p>
+                <p>Supreme hotel</p>
+                <p>Vihangs in hotel</p>
+                <p>Prakruti Resort</p>
+                <p>Ravine hotel</p>
+                <p>Fortune hotel</p>
+                <p>Center point hotel</p>
+                <p>The park hotel</p>
+                <p>Novotel hotel</p>
+
             </div>
 
-            <div class="col-md-3 font-sans text-dark" style="font-size: 20px;">
+            <div class="col-md-3 font-sans text-dark placement-list" style="font-size: 20px;">
                 <p>Radison blue hotel</p>
                 <p>Jadhav gad hotel</p>
                 <p>Leaman tree hotel</p>
@@ -45,11 +45,10 @@
                 <p>Regency hotel</p>
                 <p>Hotel bawa international</p>
                 <p>Hotel park view</p>
-
             </div>
 
 
-            <div class="col-md-3 font-sans text-dark" style="font-size: 20px;">
+            <div class="col-md-3 font-sans text-dark placement-list" style="font-size: 20px;">
 
                 <p>C princess hotel</p>
                 <p>Visava hotel</p>
@@ -65,7 +64,7 @@
             </div>
 
 
-            <div class="col-md-3 font-sans text-dark" style="font-size: 20px;">
+            <div class="col-md-3 font-sans text-dark placement-list" style="font-size: 20px;">
                 <p>Blue diamond hotel</p>
                 <p>Picaddle resort</p>
                 <p>Bharat hotel</p>

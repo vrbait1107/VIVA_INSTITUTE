@@ -66,6 +66,7 @@
 
 
         <div class="row mb-5">
+
             <div class="col-md-4 mb-3 text-center">
                 <img src="images/faculty.jpg" style="max-height: 200px;" class="img-fluid w-100" alt="faculty"
                     data-aos="fade-in">
@@ -83,10 +84,12 @@
                     data-aos="fade-in" alt="Digital Classroom">
                 <h5 class="font-time alert alert-warning text-dark">Advanced Digital Classroom</h5>
             </div>
+
         </div>
 
 
         <div class="row mb-5">
+
             <div class="col-md-4 mb-3 text-center">
                 <img src="images/online courses.jpg" class="img-fluid w-100" style="max-height: 200px;"
                     data-aos="fade-in" alt="Online Course">
@@ -104,14 +107,17 @@
                     alt="Placement Trainer">
                 <h5 class="font-time alert alert-warning text-dark">Placement trainer for jobs</h5>
             </div>
+
         </div>
 
         <div class="row mb-5">
-            <div class="col-md-4 mb-3 text-center">
+
+            <div class="col-md-4 col-xs-12 mb-3 text-center">
                 <img src="images/business trainer.jpg" class="img-fluid w-100" style="max-height: 200px;"
                     data-aos="fade-in" alt="Business Trainer">
                 <h5 class="font-time alert alert-warning text-dark">Business trainer for business</h5>
             </div>
+
         </div>
 
     </main>

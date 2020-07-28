@@ -16,9 +16,8 @@
 
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" href="programs.php">Programs Offered</a>
-                            <a class="dropdown-item" href="#">Faculty</a>
-                            <a class="dropdown-item" href="#">Academic Calender</a>
-                            <a class="dropdown-item" href="#">Syllabus</a>
+                            <a class="dropdown-item" href="faculty.php">Faculty</a>
+                            >
                         </div>
                     </li>
 
@@ -31,7 +30,7 @@
             <div class="col-md-4">
                 <h5 class="mb-3 text-uppercase">About</h5>
                 <ul class="footerList">
-                    <li><a class="text-white" href="#">About</a></li>
+                    <li><a class="text-white" href="aboutUs.php">About</a></li>
                     <li><a class="text-white" href="contactUs.php">Contact Us</a></li>
                     <li><a class="text-white" href="#">Terms & Condition </a></li>
                     <li><a class="text-white" href="#">Privacy policy</a></li>
