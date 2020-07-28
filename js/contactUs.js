@@ -53,6 +53,7 @@ $(document).ready(function () {
         email: email,
         subject: subject,
         message: message,
+        captcha: grecaptcha.getResponse(),
       },
       beforeSend() {
         $("#responseMessage").html(
@@ -64,7 +65,7 @@ $(document).ready(function () {
         $("#contactForm").trigger("reset");
         grecaptcha.reset();
       },
-      error() {
+      error(err) {
         $("#responseMessage").html("Something Went Wrong");
       },
     });

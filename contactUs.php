@@ -84,7 +84,7 @@
                     </li>
 
                     <li><i class="fa fa-envelope mb-2 fa-3x"></i>
-                        <h5 class="text-success">vivekdhepe3@gmail.com</h5>
+                        <h5 class="text-success">vivahotelmanagement2020@gmail.com</h5>
                     </li>
                 </ul>
             </section>
@@ -98,6 +98,7 @@
     <?php include_once "includes/footer.php";?>
     <!-- Include Footer Script -->
     <?php include_once "includes/footerScripts.php";?>
+    <script src="js/contactUs.js"></script>
 
 </body>
 

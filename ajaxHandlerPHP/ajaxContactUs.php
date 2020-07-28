@@ -19,7 +19,7 @@ if (isset($_POST['submit'])) {
             -->> https: //github.com/PHPMailer/ */
 
             date_default_timezone_set('Etc/UTC');
-            require '../PHPMailer/PHPMailerAutoload.php';
+            require_once '../PHPMailer/PHPMailerAutoload.php';
 
             $mail = new PHPMailer;
             $mail->isSMTP();
@@ -58,6 +58,13 @@ if (isset($_POST['submit'])) {
                     text: 'Please fill Google Recaptcha'
                 })</script>";
         }
+
+    } else {
+        echo "<script>Swal.fire({
+                    icon: 'error',
+                    title: 'Error',
+                    text: 'Something Went Wrong'
+                })</script>";
 
     }
 
