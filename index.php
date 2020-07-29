@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Viva Institute</title>
+    <link rel="stylesheet" href="css/loader.css">
 
     <!-- Include Header Scripts -->
     <?php include_once "includes/headerScripts.php";?>
@@ -12,14 +13,16 @@
 
 <body>
 
+    <!-- Loader -->
+    <div id="loader"></div>
+
     <!-- Include Navbar -->
     <?php include_once "includes/navbar.php";?>
 
 
     <main class="container">
 
-    <!-- Loader -->
-    <div id="loader"></div>
+
 
         <div class="row my-5">
 
@@ -130,6 +133,7 @@
     <?php include_once "includes/footer.php";?>
     <!-- Include Footer Script -->
     <?php include_once "includes/footerScripts.php";?>
+    <!-- Loading JS -->
     <script src="js/loader.js"></script>
 
 </body>
