@@ -35,9 +35,6 @@
 
                 <form id="contactForm" action="" method="POST">
 
-                    <!-- Response Message -->
-                    <div id="responseMessage"></div>
-
                     <div class="form-group">
                         <label for="name">Your Name</label>
                         <input type="text" id="name" name="name" class="form-control" required>
@@ -62,6 +59,9 @@
                         <div class="g-recaptcha text-center" data-sitekey="Enter Data Site Key">
                         </div>
                     </div>
+
+                      <!-- Response Message -->
+                    <div id="responseMessage" class="mb-3"></div>
 
                     <div class="text-center text-md-left">
                         <input class="btn btn-primary rounded-pill px-5" type="submit" id="submit" name="submit" value="Send">

@@ -18,6 +18,9 @@
 
     <main class="container">
 
+    <!-- Loader -->
+    <div id="loader"></div>
+
         <div class="row my-5">
 
             <section class="col-md-12">
@@ -127,6 +130,7 @@
     <?php include_once "includes/footer.php";?>
     <!-- Include Footer Script -->
     <?php include_once "includes/footerScripts.php";?>
+    <script src="js/loader.js"></script>
 
 </body>
 
