@@ -1,7 +1,10 @@
 <!-- College Logo with Name -->
 <div class="container my-5">
   <div class="row">
-    <div class="col-md-10 offset-md-1 col-xs-12">
+  <div class="offset-md-2 col-md-2 text-center">
+  <img src="images/logo.png" alt="Institute Logo" class="img-fluid" style= "max-height:130px">
+  </div>
+    <div class="col-md-6 pt-4">
       <h4 class="font-time text-center text-uppercase">VIVA INSTITUTE OF HOTEL MANAGEMENT <br/> Mangaon-Raigad</h4>
     </div>
   </div>
