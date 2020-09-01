@@ -1,3 +1,9 @@
+<?php
+//--------------------------->> SECRET
+require_once "./config/Secret.php";
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -56,7 +62,7 @@
                     </div>
 
                     <div class="text-center my-4">
-                        <div class="g-recaptcha text-center" data-sitekey="Enter Data Site Key">
+                        <div class="g-recaptcha text-center" data-sitekey="<?php echo $recaptchaSiteKey ?>">
                         </div>
                     </div>
 

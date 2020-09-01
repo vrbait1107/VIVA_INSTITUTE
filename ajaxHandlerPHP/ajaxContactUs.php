@@ -1,5 +1,8 @@
 <?php
 
+//------------------------------>> SECRETS
+require_once "../config/Secret.php";
+
 // Extracting Post data
 extract($_POST);
 
@@ -7,7 +10,7 @@ if (isset($_POST['submit'])) {
 
     if (isset($_POST['captcha'])) {
 
-        $secretKey = "Enter Secret Key";
+        $secretKey = "$recaptchaSecretKey";
 
         $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secretKey . '&response=' . $_POST['captcha']);
 
@@ -30,9 +33,9 @@ if (isset($_POST['submit'])) {
             $mail->SMTPSecure = 'tls';
             $mail->SMTPAuth = true;
             // Enter Your Email Username
-            $mail->Username = "";
+            $mail->Username = "$emailUsername";
             //Enter Your Email Password
-            $mail->Password = "";
+            $mail->Password = "$emailPassword";
             $mail->setFrom($email, $name);
             $mail->addReplyTo('non-reply@gmail.com', 'Viva Institute of Hotel Management');
             $mail->addAddress("Enter College Email Address", "Viva Institute of Hotel Management");
