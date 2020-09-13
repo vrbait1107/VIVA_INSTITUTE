@@ -12,10 +12,10 @@ require_once "./config/Secret.php";
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us</title>
 
-    <!-- Include Header Scripts -->
+    <!-- Include Header Scripts then Google Recaptcha then CkEditor -->
      <?php include_once "includes/headerScripts.php";?>
-      <!-- Google Recaptcha -->
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script src="https://cdn.ckeditor.com/4.14.1/standard/ckeditor.js"></script>
 
 </head>
 
@@ -99,11 +99,11 @@ require_once "./config/Secret.php";
     </main>
 
 
-
     <!-- Include Footer -->
     <?php include_once "includes/footer.php";?>
     <!-- Include Footer Script -->
     <?php include_once "includes/footerScripts.php";?>
+    <script>CKEDITOR.replace("message");</script>
     <script src="js/contactUs.js"></script>
 
 </body>
